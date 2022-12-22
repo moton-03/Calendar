@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-aJ0JGmlOj83cDB5kw654UuHeIYakrFdXLai1z1uMIlo=",
+      "hash": "sha256-Yk0Ki+3ucWLzTOhXF0RjyqeOSntklYSGihAn27HLCKQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-uMKsPkxYq0J9va\/9uHQuRU69bKquG\/BZY60RGZAz+xc=",
+      "hash": "sha256-1v19y4AUeAhYMxJzHTGGybGzgHx0ttiqv6njbNLBofs=",
       "url": "_framework\/Calendar.dll"
     },
     {
@@ -125,7 +125,7 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-4Re\/X0cNVmFENEmflTbkiGakk3Hg0Hrkh3RD+nsilwc=",
+      "hash": "sha256-\/o4bhwYqnBCua\/ydhEint31QWGQJVZMOClNL2Jf2yFg=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/System.Private.Uri.dll"
     },
     {
-      "hash": "sha256-d46qXqbwAw\/sOWEjzOUc0UCg7y1oARnGkzZuFoTnS\/0=",
+      "hash": "sha256-Csk5lSSqSZfJdzltA03sL\/TqUbjm2FJICi6IzPrOl5c=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -225,5 +225,5 @@
       "url": "sample-data\/weather.json"
     }
   ],
-  "version": "C83GONou"
+  "version": "rxvlconD"
 };

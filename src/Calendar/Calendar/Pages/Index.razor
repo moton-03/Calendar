@@ -2,6 +2,64 @@
 
 <PageTitle>Calendar</PageTitle>
 
-<h1>📆Calendar</h1>
+<style>
+    .Button {
+        border: none;
+        background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+        color: white;
+    }
+</style>
+<style>
+    .CalendarItemNow {
+        background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+</style>
+
+<h1>Calendar</h1>
 
 <p>This app is under development.</p>
+
+<div>
+    <p>
+        <button onclick="@update" class="Button">
+            Update
+        </button>
+    </p>
+    <p>
+        <ol start="0" class="CalendarList">
+            <li class="CalendarItem"><span class="CalendarItemNow">@date0Add</span></li>
+            <li class="CalendarItem">@date1Add</li>
+            <li class="CalendarItem">@date2Add</li>
+            <li class="CalendarItem">@date3Add</li>
+            <li class="CalendarItem">@date4Add</li>
+            <li class="CalendarItem">@date5Add</li>
+            <li class="CalendarItem">@date6Add</li>
+            <li class="CalendarItem">@date7Add</li>
+        </ol>
+    </p>
+</div>
+
+@code {
+    string date0Add = ((DateTime.Today).AddDays(0)).ToString("yyyy/MM/dd");
+    string date1Add = ((DateTime.Today).AddDays(1)).ToString("yyyy/MM/dd");
+    string date2Add = ((DateTime.Today).AddDays(2)).ToString("yyyy/MM/dd");
+    string date3Add = ((DateTime.Today).AddDays(3)).ToString("yyyy/MM/dd");
+    string date4Add = ((DateTime.Today).AddDays(4)).ToString("yyyy/MM/dd");
+    string date5Add = ((DateTime.Today).AddDays(5)).ToString("yyyy/MM/dd");
+    string date6Add = ((DateTime.Today).AddDays(6)).ToString("yyyy/MM/dd");
+    string date7Add = ((DateTime.Today).AddDays(7)).ToString("yyyy/MM/dd");
+
+    void update()
+    {
+        date0Add = ((DateTime.Today).AddDays(0)).ToString("yyyy/MM/dd");
+        date1Add = ((DateTime.Today).AddDays(1)).ToString("yyyy/MM/dd");
+        date2Add = ((DateTime.Today).AddDays(2)).ToString("yyyy/MM/dd");
+        date3Add = ((DateTime.Today).AddDays(3)).ToString("yyyy/MM/dd");
+        date4Add = ((DateTime.Today).AddDays(4)).ToString("yyyy/MM/dd");
+        date5Add = ((DateTime.Today).AddDays(5)).ToString("yyyy/MM/dd");
+        date6Add = ((DateTime.Today).AddDays(6)).ToString("yyyy/MM/dd");
+        date7Add = ((DateTime.Today).AddDays(7)).ToString("yyyy/MM/dd");
+    }
+}

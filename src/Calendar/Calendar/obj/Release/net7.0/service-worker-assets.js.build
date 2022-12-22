@@ -869,11 +869,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-uMKsPkxYq0J9va\/9uHQuRU69bKquG\/BZY60RGZAz+xc=",
+      "hash": "sha256-1v19y4AUeAhYMxJzHTGGybGzgHx0ttiqv6njbNLBofs=",
       "url": "_framework\/Calendar.dll"
     },
     {
-      "hash": "sha256-ZrL1dqV6Qk9rnYCWS7A9UgIOFpFrBzmRydKuPas\/bQA=",
+      "hash": "sha256-W475FufqGzeCtVJhKoY6fHVS6cAGbasq\/tyuJNoc9vk=",
       "url": "_framework\/Calendar.pdb"
     },
     {
@@ -881,9 +881,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-W9X4afpZyhX1xICTeURsegGCtSoXdSI0LTqROGim7ew=",
+      "hash": "sha256-TC3Aa7i9U9HC5Za6BBAAIXMhweGS\/5AXmJsbAH3ZPCQ=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "xb2BnuIw"
+  "version": "eTlGmkhd"
 };

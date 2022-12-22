@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\GitHub\Calendar\src\Calendar\Calendar\../../../</_PublishTargetUrl>
-    <History>True|2022-12-21T12:44:52.6673364Z;</History>
+    <History>True|2022-12-22T10:18:02.4793912Z;True|2022-12-21T21:44:52.6673364+09:00;</History>
     <LastFailureDetails />
   </PropertyGroup>
 </Project>

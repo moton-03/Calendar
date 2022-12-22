@@ -841,6 +841,10 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
+      "hash": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",
+      "url": "_framework\/dotnet.7.0.0.ts3x2wmfjl.js"
+    },
+    {
       "hash": "sha256-NFPG+mWpX1lpilZGC5d9W\/8+Yjx+6oW2ujo2u+HYW1Q=",
       "url": "_framework\/dotnet.timezones.blat"
     },
@@ -865,11 +869,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-Ecf8aQhWBa0GnNCEdTK3CEcSWv8Mriw4WxcFPFofY9M=",
+      "hash": "sha256-tRI43FLIp6c5Xe6P6xaCzYUa7l\/H5EyV85emWSmk6wU=",
       "url": "_framework\/Calendar.dll"
     },
     {
-      "hash": "sha256-oeNY3UMhQQmnMlevAiOupaovoG\/4528TYlNVGPwFq6c=",
+      "hash": "sha256-Awn6Q8h1reQvaGu97GAKkhnRWjNC+cDztfCgspeGcBI=",
       "url": "_framework\/Calendar.pdb"
     },
     {
@@ -877,13 +881,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-3aH3pBPuAdekFqP+yA9S56XPur\/7YkFRjXqLp\/erCAo=",
+      "hash": "sha256-MqjxYqygiESkPYabZGdElWzvOFXIOKAtLScGMaIJjvs=",
       "url": "_framework\/blazor.boot.json"
-    },
-    {
-      "hash": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",
-      "url": "_framework\/dotnet.7.0.0.ts3x2wmfjl.js"
     }
   ],
-  "version": "4Rqwo9rM"
+  "version": "OgaxMUmI"
 };

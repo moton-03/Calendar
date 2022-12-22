@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat.br"
     },
     {
-      "hash": "sha256-gBK6PAXu5pt4HIlqfN\/Asuh5rQ4FeoZt+yoW+A0o96U=",
+      "hash": "sha256-p8uUDnV1MhjTfd0yveaQ01r3rh8n606h3i3g4uiUBgM=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
-      "hash": "sha256-oLGhGTNz9U4vl99kdnD4dEvspnCKZKl9HgQWscl1+BQ=",
+      "hash": "sha256-7atkQzEW17UFppxWcK2vaNqm3g7h5+PuBr54VjE4Rbk=",
       "url": "_framework\/Calendar.dll.br"
     },
     {
@@ -125,7 +125,7 @@
       "url": "_framework\/System.Net.Primitives.dll.br"
     },
     {
-      "hash": "sha256-eSz2NenfvqfclWvWOEVVFdVs0FEomjngMbvtxkDJH0M=",
+      "hash": "sha256-hxS8LeOlbaQZKb8CJF8btiXOdJO1btbR6u0ds1xIaVU=",
       "url": "_framework\/System.Private.CoreLib.dll.br"
     },
     {
@@ -133,7 +133,7 @@
       "url": "_framework\/System.Private.Uri.dll.br"
     },
     {
-      "hash": "sha256-Cf\/QKJ0QZDLVt6oBNrGIrC869i4nsVLxlFM8hnD49c8=",
+      "hash": "sha256-fOCV\/s+Qhd9Wcsv1ms\/T31dY+ozW00u98eiiWFYL7GM=",
       "url": "_framework\/System.Runtime.dll.br"
     },
     {
@@ -233,5 +233,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "C83GONou"
+  "version": "rxvlconD"
 };
